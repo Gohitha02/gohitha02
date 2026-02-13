@@ -45,3 +45,6 @@ Senior .NET Developer | ASP.NET Core | Azure | AWS | Microservices | SQL
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gohitha02&layout=compact" />
 </p>
+
+### 🐍 Contribution Snake
+![snake](https://raw.githubusercontent.com/gohitha02/snake/output/github-contribution-grid-snake.svg)
