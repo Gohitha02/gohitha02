@@ -4,7 +4,7 @@ Senior .NET Developer | ASP.NET Core | Azure | AWS | Microservices | SQL
 </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/gohitha-reddy">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/gohitha-reddy">LinkedIn</a> •
   <a href="mailto:gohitha02@gmail.com">Email</a>
 </p>
 
