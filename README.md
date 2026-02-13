@@ -4,7 +4,7 @@ Senior .NET Developer | ASP.NET Core | Azure | AWS | Microservices | SQL
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gohitha-reddy">LinkedIn</a> •
+  <a href="www.linkedin.com/in/gohitha-reddy">LinkedIn</a> •
   <a href="mailto:gohitha02@gmail.com">Email</a>
 </p>
 
@@ -19,7 +19,7 @@ Senior .NET Developer | ASP.NET Core | Azure | AWS | Microservices | SQL
 
 ---
 
-### ⭐ Featured Projects (coming soon 🚧)
+### ⭐ Featured Projects 
 - **E-Commerce Microservices**
   - ASP.NET Core, API Gateway, RabbitMQ, Docker
 - **Clean Architecture API Template**
@@ -27,7 +27,7 @@ Senior .NET Developer | ASP.NET Core | Azure | AWS | Microservices | SQL
 - **Full-Stack App (React + .NET)**
   - Secure auth, REST APIs, cloud deployment
 
-_(Projects will be linked as repositories are added)_
+
 
 ---
 
